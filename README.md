@@ -62,7 +62,7 @@ satisfaction.
 ---
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.jpg)
 
 ---
 
