@@ -84,7 +84,7 @@ dashboard delivery.
 ---
 
 ## Author
-**Preethi M**
-Aspiring Data Analyst
-📧 preethiii.m1905@gmail.com
+**Preethi M**  
+Aspiring Data Analyst  
+📧 preethiii.m1905@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/preethi-m-9864a3384/)
