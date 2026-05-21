@@ -36,7 +36,7 @@ satisfaction.
 5. DAX Measures Creation
 6. Exploratory Data Analysis (EDA)
 7. Dashboard Design & Visualization
-8. Business Insights
+8. Business Insights & Recommendations 
 
 ---
 
